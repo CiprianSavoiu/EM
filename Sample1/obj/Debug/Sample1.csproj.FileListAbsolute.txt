@@ -1,0 +1,5 @@
+C:\#Courses\Pluralsight\c#\06ExtensionMethods\EM\Sample1\bin\Debug\Sample1.dll
+C:\#Courses\Pluralsight\c#\06ExtensionMethods\EM\Sample1\bin\Debug\Sample1.pdb
+C:\#Courses\Pluralsight\c#\06ExtensionMethods\EM\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+C:\#Courses\Pluralsight\c#\06ExtensionMethods\EM\Sample1\obj\Debug\Sample1.dll
+C:\#Courses\Pluralsight\c#\06ExtensionMethods\EM\Sample1\obj\Debug\Sample1.pdb
